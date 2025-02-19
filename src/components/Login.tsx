@@ -275,7 +275,6 @@ const Login = () => {
               href="#"
               className="font-medium text-blue-300 hover:text-blue-200 transition-colors duration-200"
             >
-              Forgot password?
             </motion.a>
           </div>
 
